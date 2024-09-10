@@ -1,0 +1,92 @@
+
+
+main {
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    font-family: 'Trebuchet MS', Times, 'Times New Roman', serif;
+    overflow: auto;
+}
+
+.main {
+    background-image: linear-gradient(to right, red, blue);
+    background-clip: text;
+    color: transparent;
+    filter: brightness(150%)
+}
+
+.header {
+    padding-top: 1px;
+    font-size: 50px;
+    background-image: url("https://plus.unsplash.com/premium_photo-1681666713641-8d722b681edc?q=80&w=1210&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    padding-bottom: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.nav {
+    margin: 30px;
+    font-size: 50px;
+    padding-top: 0px;
+    color: blue;
+    
+}
+
+.nav:hover {
+    color: orange;
+
+}
+
+
+p {
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.main-question {
+    font-size: 30px;
+}
+
+#about {
+    font-weight: bolder;
+}
+
+#q1 {
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+
+#q2 {
+    padding-bottom: 90px;
+}
+
+.about {
+    padding-bottom: 500px;
+}
+
+.mail {
+    margin-left: 0px;
+}
+
+body {
+    background-image: linear-gradient(rgb(41, 151, 255), #BF77F6, royalblue);
+}
+
+.q {
+    font-size: 50px;
+}
+.qb {
+    font-size: 35px;
+}
+
+#contact p {
+    font-size: 50px;
+}
